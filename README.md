@@ -23,7 +23,7 @@ Smart Filtering – Sort and refine restaurant results by customer ratings and p
 Menu Transparency – Access complete menus with clear calorie information for all food items
 
 Order Management – Add items to your shopping cart, track total costs and calories, and complete checkout
-- [Project Charter](docs/PROJECT_CHARTER.md)
-- [Requirements Specification](docs/REQUIREMENTS_SPECIFICATION.md)
-- [Acceptance Criteria](docs/ACCEPTANCE_CRITERIA.md)
-- [Database Design](docs/DATABASE_DESIGN.md)
+- [Project Charter](docs/Project%20Charter.md)
+- [Requirements Specification](docs/Requirements%20Specification.md)
+- [Acceptance Criteria](docs/Acceptance%20Criteria.md)
+- [Database Design](docs/databasedesign.md)
