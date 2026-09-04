@@ -1,32 +1,25 @@
-1. Target Users
-User Type	Description
-General Public	People looking for restaurants nearby
-Food Enthusiasts	Users who want to discover new dining options
-Health-Conscious Users	People who want to view calorie information before ordering
-Budget-Conscious Users	Users who want to filter by price range
-Busy Professionals	People who want to order food quickly online
-2. Problems to Solve
-Problem	Solution
-Users don't know what restaurants are nearby	Show restaurants based on user location
-Users want to find highly-rated restaurants	Filter and sort by rating
-Users have different budget preferences	Filter by price range ($, $$, $$$)
-Users want to eat healthy	Display and filter menu items by calories
-Users want to order food conveniently	Enable online ordering feature
-3. Main Features
-Look at restaurants around user's location
+Project Overview
+This application provides a complete restaurant discovery and food ordering solution. Users can find nearby restaurants, explore menus, and place orders through an intuitive interface. The platform integrates key decision-making tools such as ratings, price filters, and nutritional information to simplify the dining selection process.
 
-View restaurants by rating
+Target Users
+Health-conscious individuals who monitor their daily nutritional intake
 
-View restaurants by price range
+Working professionals needing fast and efficient local food options
 
-Select menu and view by calories
+Food enthusiasts searching for new dining experiences based on quality and value
 
-Order food
+Problem Statement
+Selecting a restaurant can be overwhelming. Users face multiple challenges including location uncertainty, budget constraints, health considerations, and quality concerns. The decision process becomes complicated when trying to balance all these factors simultaneously, often leading to frustration and wasted time.
 
-4. Project Documentation
-Document	File Name	Description
-Project Charter	Project_Charter.md	Project overview, goals, scope, team, timeline
-Requirements Specification	Requirements.md	Functional and non-functional requirements
-Acceptance Criteria	Acceptance_Criteria.md	Conditions for each feature to be complete
-Database Design	Database_Design.md	Database schema, tables, relationships
-README	README.md	Project overview and setup guide
+Main Features
+Location-Based Discovery
+Find restaurants near your current position using GPS technology
+
+Smart Filtering
+Sort and refine restaurant results by customer ratings and price levels
+
+Menu Transparency
+Access complete menus with clear calorie information for all food items
+
+Order Management
+Add items to your shopping cart, track total costs and calories, and complete checkout
